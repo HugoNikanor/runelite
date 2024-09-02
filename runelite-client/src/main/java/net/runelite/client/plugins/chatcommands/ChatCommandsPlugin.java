@@ -2025,6 +2025,8 @@ public class ChatCommandsPlugin extends Plugin
 			case "bando":
 			case "bandos":
 			case "graardor":
+			case "graador":
+			case "General Graador":
 				return "General Graardor";
 
 			// dks
